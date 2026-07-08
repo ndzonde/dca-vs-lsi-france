@@ -1,0 +1,10 @@
+pandas
+numpy
+scipy
+yfinance
+matplotlib
+seaborn
+python-dateutil
+openpyxl
+nbformat
+pytest

@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+*.aux
+*.log
+*.out
+*.toc
+.claude/
+~$*
+*.tmp
