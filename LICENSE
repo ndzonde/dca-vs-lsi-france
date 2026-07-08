@@ -22,8 +22,5 @@ SOFTWARE.
 
 ---
 
-This license covers the code in this repository (lsi_dca/, tests/, notebook,
-legacy script). The paper text and PDF (Final_papers_DCA_LSI.pdf,
-dca_lsi_france_corrected.tex) remain (c) the author; the third-party PDFs
-under "Literature review/" are (c) their respective authors/publishers and
-are included for research reference only.
+This license covers the notebook code in this repository. The paper text and
+PDF (Final_papers_DCA_LSI.pdf) remain (c) the author.
